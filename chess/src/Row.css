@@ -1,0 +1,9 @@
+/* style the row component */
+.row{
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
